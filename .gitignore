@@ -35,5 +35,4 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
-src/Healthcare_dao_1.0.1
+
